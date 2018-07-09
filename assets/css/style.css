@@ -5,13 +5,14 @@
 html,body{
     color: tomato;
     font-family: 'Merriweather', serif;
+    background-color: black;
     
   }
   
   /* =========== Messing with the jumbotron =========== */
   
   .jumbotron {
-    background-color: yellow; 
+    background-color: white; 
   }
   
   /* =========== Instructional Text =========== */
